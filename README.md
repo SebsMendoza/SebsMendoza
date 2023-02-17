@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Ktor, Koin, MongoDB in Kotlin using reactivity on some projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SebsMendoza](https://github.com/SebsMendoza)
+- 👨‍💻 All of my projects are available at [repository](https://github.com/SebsMendoza?tab=repositories)
 
 - 💬 Ask me about **SOLID, Spring, NoSQL, microservices, Testing (Mock and JUnit)**
 
